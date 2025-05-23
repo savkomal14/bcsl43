@@ -48,7 +48,7 @@ public class Exc7
     {
     // Creating Account objects using both constructors
     Account a1 = new Account("Komal", 1001, 5000.0);
-    Account a2 = new Account("Shilpa", 1002, 3000.0, "123 Main St", "Savings");
+    Account a2 = new Account("Khushi", 1002, 3000.0, "123 Main St", "Savings");
 
     // Using deposit and withdraw methods
     a1.deposit(1500.0);
